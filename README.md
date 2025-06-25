@@ -14,3 +14,14 @@ src/
 3. Commit suas mudanças (`git commit -m "Adiciona feature"`)
 4. Push para o branch (`git push origin nova-funcionalidade`)
 5. Abra um Pull Request
+
+## 🐚 Executar em Bash
+```bash
+chmod +x src/calculadora.sh  # Dá permissão
+./src/calculadora.sh         # Executa
+```
+
+## 🐍 Executar em Python
+```bash
+python3 src/calculadora.py
+```
