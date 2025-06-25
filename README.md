@@ -25,3 +25,13 @@ chmod +x src/calculadora.sh  # Dá permissão
 ```bash
 python3 src/calculadora.py
 ```
+# Calculadora Multilinguagem
+
+## Execução
+```bash
+# Bash
+bash src/calculadora.sh
+
+# Python
+python src/calculadora.py
+```
